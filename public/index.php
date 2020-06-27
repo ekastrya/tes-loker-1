@@ -14,7 +14,7 @@
                     Alamat Email
                 </label>
                 <div class="mt-1 rounded-md">
-                    <input value="" type="email" placeholder="Masukkan alamat email Anda" name="email" autofocus required class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md placeholder-gray-400 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out sm:text-sm sm:leading-5" />
+                    <input value="" type="email" placeholder="Masukkan alamat email Anda" name="email" required autofocus class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md placeholder-gray-400 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out sm:text-sm sm:leading-5" />
                 </div>
                 </div>
 
