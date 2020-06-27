@@ -14,7 +14,6 @@ $form->run($_POST, $requirement, function(array $response) {
         $form->response(1, "Terjadi sesuatu!", []);
     }
 });
-echo "OK";
 ?>
 
 <?php
